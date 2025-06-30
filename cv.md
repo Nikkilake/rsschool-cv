@@ -1,4 +1,5 @@
 # Kristina Kuznetsova
+
 ### junior frontend developer
 
 ## My contact info
