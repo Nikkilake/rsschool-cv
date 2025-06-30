@@ -23,6 +23,15 @@ My conviction is that my work must bring value and positive experiences to peopl
 - Git, Bash
 - Figma
 
+**Code example**
+```javascript
+function reverseInt(num) {
+    const reversed = num.toString().split('').reverse().join('');
+    return reversed;
+}
+console.log(reverseInt(123));
+```
+
 #Education
 ---
 - Public programming language courses: HTML, CSS, JavaScript
