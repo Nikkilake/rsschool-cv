@@ -337,6 +337,12 @@ body {
     text-decoration: none;
     color: black;
 }
+.footer__rslogo {
+    display: block;
+    height: 60px;
+    width: 150px;
+    object-fit: contain;
+}
 .footer p {
     font: 600 20px 'Roboto', sans-serif;
 }
