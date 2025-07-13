@@ -254,9 +254,9 @@ body {
 }
 
 .divider {
-  height: 30px;
-  background: linear-gradient(90deg, transparent, #FF6648, transparent);
-  margin: 100px 0;
+    height: 30px;
+    background: linear-gradient(90deg, transparent, #FF6648, transparent);
+    margin: 100px 0;
 }
 
 .code-projects {
@@ -342,7 +342,6 @@ body {
 }
 .link {
     text-decoration: none;
-  
 }
 
 
